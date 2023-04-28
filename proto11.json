@@ -1,7 +1,27 @@
 [
   {
     "id": 1,
-    "tagw": "Hypothèse du sport",
-    "conseil": "test"
+    "tagw": "tristesse,dépression,angoisse,stress,suicide,triste,pleurer,larme,pleurs,moral,abattement,émotion,problème,anxiété,contrôle,liberté,libre,prisonnier,enfermé,enfermement,contrainte",
+    "conseil": "<br><br><br> Evaluer que les choses ne nous échappent pas et que nous avons une marge de contrôle sur ces dernières peut être corrélé à un bon moral: <br><br> <html> <a href=\"https://www.sciencedirect.com/science/article/abs/pii/0277953689901111/\">Personal control and health promotion - Social Science & Medicine</a></html>  <br><br> <html> <a href=\"https://psycnet.apa.org/record/1990-97024-000/\">Stress, personal control and health - American Psychological Association (APA)</a></html>  <br><br> <html> <a href=\"https://www.psychologytoday.com/us/blog/ulterior-motives/201402/control-and-health/\">Control and Health - Psychology Today</a></html>  <br><br> <html> <a href=\"https://journals.sagepub.com/doi/abs/10.1177/0146167213507087/\">The Role of Locus of Control in Daily Life - Personality and Social Psychology Bulletin</a></html><br><br><br>"
+  },
+  {
+    "id": 2,
+    "tagw": "tristesse,dépression,angoisse,stress,suicide,triste,pleurer,larme,pleurs,moral,abattement,émotion,problème,anxiété,confiance,amitié,discuter,parler,parole,confession,aide,autres,proches,aimer,amour,solitude,isolement,abandon,rupture,amour,deuil,mort,séparation",
+    "conseil": "<br><br><br>Contenir ses émotions sans les confier pourrait être intenable et compliquer leur régulation et il semblerait qu'il existe des liens entre la capacité à faire confiance et une auto-évaluation positive du bonheur:  <br><br><html> <a href=\"https://www.researchgate.net/publication/241647192_Emotion_Elicits_the_Social_Sharing_of_Emotion_Theory_and_Empirical_Review\">Emotion Elicits the Social Sharing of Emotion: Theory and Empirical Review - Université Catholique de Louvain</a></html>  <br><br><html> <a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091786\">Generalized Trust and Intelligence in the United States - Department of Sociology and Nuffield College, University of Oxford, Oxford, United Kingdom</a></html><br><br><br>"
+  },
+  {
+    "id": 3,
+    "tagw": "tristesse,dépression,angoisse,stress,suicide,triste,pleurer,larme,pleurs,moral,abattement,émotion,problème,anxiété,culpabilité,morale,honte,infériorité,remords,regrets,conscience,devoir,responsabilité,coupable,jugement",
+    "conseil": "La culpabilité pourrait être en lien avec la depression  <br><br><html> <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0165032701004086\">Guilt, fear, submission, and empathy in depression - Journal of Affective Disorders</a></html>  <br><br><html> <a href=\"https://www.sciencedaily.com/releases/2012/06/120604181847.htm\">Brain scans support Freud: Guilt plays key role in depression - University of Manchester </a></html><br><br><br>"
+  },
+  {
+    "id": 4,
+    "tagw": "tristesse,dépression,angoisse,stress,suicide,triste,pleurer,larme,pleurs,moral,abattement,émotion,problème,anxiété,sommeil,fatigue,dormir,dodo,manque,nuit,sieste,pause,insomnie,insomniaque",
+    "conseil": "L'anxiété peut être empirée par un manque de sommeil :  <br><br><html> <a href=\"https://www.nature.com/articles/d41586-019-03380-z\">Sleep-deprived and anxious? This brain region helps to explain why - Nature</a></html>  <br><br><html> <a href=\"https://news.berkeley.edu/2013/06/25/anticipate-the-worst/\">Tired and edgy? Sleep deprivation boosts anticipatory anxiety - Berkeley News </a></html>  <br><br><html> <a href=\"https://news.berkeley.edu/2019/11/04/deep-sleep-can-rewire-the-anxious-brain/\">Stressed to the max? Deep sleep can rewire the anxious brain - Berkeley News </a></html>  <br><br><html> <a href=\"https://pubmed.ncbi.nlm.nih.gov/31685950/#affiliation-1/\">Overanxious and underslept - Nature Human Behaviour </a></html><br><br><br>"
+  },
+  {
+    "id": 5,
+    "tagw": "tristesse,dépression,angoisse,stress,suicide,triste,pleurer,larme,pleurs,moral,abattement,émotion,problème,anxiété,chocolat,stress,angoisse,cacao",
+    "conseil": "L'anxiété et les inflammations pourraient être réduites par la consommation de chocolat noir:   <br><br><html> <a href=\"https://news.llu.edu/for-journalists/press-releases/new-studies-show-dark-chocolate-consumption-reduces-stress-and-inflammation-while-improving-memory-immunity-and-mood\">New studies show dark chocolate consumption reduces stress and inflammation, while improving memory, immunity and mood </a></html>  <br><br><html> <a href=\"https://www.sciencedirect.com/science/article/pii/S0735109714015836\">Dark Chocolate Intake Buffers Stress Reactivity in Humans - Journal of the American College of Cardiology </a></html>  <br><br><html> <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0889159116300976\">Dark chocolate attenuates intracellular pro-inflammatory reactivity to acute psychosocial stress in men: A randomized controlled trial - Brain, Behavior, and Immunity</a></html><br><br><br>"
   }
 ]
