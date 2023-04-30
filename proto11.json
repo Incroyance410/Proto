@@ -60,18 +60,33 @@
     "conseil": "L'exercice aerobic permettrait d'augmenter le volume de la partie gauche de l'hippocampe:\nhttps://pubmed.ncbi.nlm.nih.gov/29113943/"
   },
   {
-  "id": 14,
-  "tagw": "tempsendormissementdim",
-  "conseil": "<br>Sport<br>Les chercheurs ont examiné 23 études qui ont évalué le moment du coucher et la qualité du sommeil chez les adultes en bonne santé qui ont effectué une séance de sport le soir, comparés à des adultes similaires qui ne l'ont pas fait. Ils ont constaté que le sport le soir n'affectait pas le sommeil, il semble même aider les gens à s'endormir plus rapidement et à passer plus de temps en sommeil profond. Cependant, ceux qui ont fait du sport à haute intensité, comme l'entraînement par intervalles, moins d'une heure avant le coucher ont mis plus de temps à s'endormir et ont eu une qualité de sommeil plus médiocre.<br><a href='https://pubmed.ncbi.nlm.nih.gov/30374942/'>PubMed</a><br><br>Eviter le café après 13 heure :<br><a href='https://pubmed.ncbi.nlm.nih.gov/36870101/'>PubMed</a><br><br>Eviter café<br>Pour éviter de réduire la durée totale du sommeil, le café (107 mg par 250 ml) doit être consommé au moins 8,8 heures avant le coucher<br><a href='https://pubmed.ncbi.nlm.nih.gov/36870101/'>PubMed</a><br><br>Eviter siestes trop fréquente/tard dans la journée<br><a href='https://pubmed.ncbi.nlm.nih.gov/35253300/'>PubMed</a><br>"
+    "id": 14,
+    "tagw": "tempsendormissementdim",
+    "conseil": "<br>Sport<br>Les chercheurs ont examiné 23 études qui ont évalué le moment du coucher et la qualité du sommeil chez les adultes en bonne santé qui ont effectué une séance de sport le soir, comparés à des adultes similaires qui ne l'ont pas fait. Ils ont constaté que le sport le soir n'affectait pas le sommeil, il semble même aider les gens à s'endormir plus rapidement et à passer plus de temps en sommeil profond. Cependant, ceux qui ont fait du sport à haute intensité, comme l'entraînement par intervalles, moins d'une heure avant le coucher ont mis plus de temps à s'endormir et ont eu une qualité de sommeil plus médiocre.<br><a href='https://pubmed.ncbi.nlm.nih.gov/30374942/'>PubMed</a><br><br>Eviter le café après 13 heure :<br><a href='https://pubmed.ncbi.nlm.nih.gov/36870101/'>PubMed</a><br><br>Eviter café<br>Pour éviter de réduire la durée totale du sommeil, le café (107 mg par 250 ml) doit être consommé au moins 8,8 heures avant le coucher<br><a href='https://pubmed.ncbi.nlm.nih.gov/36870101/'>PubMed</a><br><br>Eviter siestes trop fréquente/tard dans la journée<br><a href='https://pubmed.ncbi.nlm.nih.gov/35253300/'>PubMed</a><br>"
   },
   {
-  "id": 15,
-  "tagw": "tempsreveildim",
-  "conseil": "<br>Temps de réveil<br>Le temps de réveil est le temps passé allongé après le réveil. Il peut être réduit en employant un système EAD (enceinte à distance), mais aussi en utilisant les procédures de réductions de mélatonine ou l'eau froide sur le visage<br>"
+    "id": 15,
+    "tagw": "tempsreveildim",
+    "conseil": "<br>Temps de réveil<br>Le temps de réveil est le temps passé allongé après le réveil. Il peut être réduit en employant un système EAD (enceinte à distance), mais aussi en utilisant les procédures de réductions de mélatonine ou l'eau froide sur le visage<br>"
   },
   {
-  "id": 16,
-  "tagw": "melatoninedim",
-  "conseil": "<br><br><br>Exposition à la lumière<br><html><a href='https://academic.oup.com/jcem/article/99/9/3298/2538381#:~:text=Melatonin%20secretion%20is%20suppressed%20by,light%20(2%2C%203)'>Melatonin secretion is suppressed by exposure to light - The Journal of Clinical Endocrinology & Metabolism</a></html><br><br><br>"
+    "id": 16,
+    "tagw": "melatoninedim",
+    "conseil": "<br><br><br>Exposition à la lumière<br><html><a href='https://academic.oup.com/jcem/article/99/9/3298/2538381#:~:text=Melatonin%20secretion%20is%20suppressed%20by,light%20(2%2C%203)'>Melatonin secretion is suppressed by exposure to light - The Journal of Clinical Endocrinology & Metabolism</a></html><br><br><br>"
+  },
+  {
+    "id": 17,
+    "tagw": "timereactiondim",
+    "conseil": "<br><br><br>Bon sommeil<br><html><a href='https://pubmed.ncbi.nlm.nih.gov/14505597/'>Lack of sleep can lead to increased reaction rate - PubMed</a></html><br><html><a href='https://www.sciencedirect.com/science/article/abs/pii/S0022460X0600099X'>Sleep exposed to noise leads to decreased reaction time - Journal of Sound and Vibration</a></html><br><html><a href='https://link.springer.com/article/10.1007/s00420-010-0515-5'>Effects of noise on sleep - International Archives of Occupational and Environmental Health</a></html><br><br><br>Ashwagandha<br><html><a href='https://pubmed.ncbi.nlm.nih.gov/24497737/'>A Prospective, Randomized Double-Blind, Placebo-Controlled Study of Safety and Efficacy of a High-Concentration Full-Spectrum Extract of Ashwagandha Root in Reducing Stress and Anxiety in Adults - PubMed</a></html><br><br><br>"
+  },
+  {
+    "id": 18,
+    "tagw": "noradrenalineaug",
+    "conseil": "<br><br><br>Douche froide<br><html><a href='https://link.springer.com/article/10.1007/s004210050065'>A cold shower of 14 degrees increases the level of norepinephrine - European Journal of Applied Physiology and Occupational Physiology</a></html><br><br><br>Exercice de résistance (muscu)<br><html><a href='https://cdnsciencepub.com/doi/abs/10.1139/h99-034'>Leg press exercises seem to increase the level of norepinephrine - Applied Physiology, Nutrition, and Metabolism</a></html><br><html><a href='https://europepmc.org/article/med/21200338'>Squat exercises with load appear to increase the level of norepinephrine - European Journal of Applied Physiology</a></html><br><br><br>Stimulation sexuelle sans orgasme<br><html><a href='https://www.tandfonline.com/doi/abs/10.1080/00926230590950217'>Sexual arousal, but not orgasm, is associated with increased norepinephrine - Journal of Sex & Marital Therapy</a></html><br><html><a href='https://academic.oup.com/endo/article-abstract/111/4/1286/2590485'>Endocrine responses to sexual stimulation in men - Endocrinology</a></html><br><br><br>"
+  },
+  {
+  "id": 19,
+  "tagw": "prolactineaug",
+  "conseil": "<br><br><br>Masturbation jusqu'à l'orgasme<br><html><a href='https://pubmed.ncbi.nlm.nih.gov/11835982/'>Masturbation to orgasm increases blood prolactin levels - Archives of Sexual Behavior</a></html><br><br><br>Relation sexuelle<br><html><a href='https://pubmed.ncbi.nlm.nih.gov/16095799/'>Sexual intercourse to orgasm increases prolactin levels more than masturbation to orgasm - Biological Psychology</a></html><br><br><br>Sommeil<br><html><a href='https://academic.oup.com/sleep/article/17/1/20/2749436'>Sleep-related increase in prolactin secretion - Sleep</a></html><br><br><br>"
   }
 ]
