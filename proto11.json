@@ -33,5 +33,45 @@
     "id": 8,
     "tagw": "nacdopaminelevelaug",
     "conseil": "<br>Exposition à la nouveauté<br>L'exposition à de nouveaux objets permet d'augmenter le niveau de dopamine dans le noyau accumbens<br><a href='https://www.nature.com/articles/s41593-022-01126-1'>Nature.com</a><br><a href='https://onlinelibrary.wiley.com/doi/abs/10.1046/j.0953-816x.2000.01448.x'>Wiley Online Library</a><br><br>Exposition à l'incertitude<br>At a neuronal level, there is evidence to suggest that reward uncertainty can enhance extracellular dopamine levels in nucleus accumbens<br><a href='https://pubmed.ncbi.nlm.nih.gov/24631397/'>PubMed</a><br><br>Exposition à la musique<br>Les stimuli musicaux peuvent augmenter de manière significative les niveaux extracellulaires de DA (dopamine) dans le noyau accumbens (NAc)<br><a href='https://link.springer.com/article/10.1007/s00276-014-1360-0'>Springer Link</a><br><br>Exposition à des images sexuellement stimulantes<br>Les stimuli sexuels peuvent augmenter de manière significative les niveaux de dopamine dans le noyau accumbens (NAc)<br><a href='https://pubmed.ncbi.nlm.nih.gov/1313243/'>PubMed</a><br><a href='https://www.sciencedirect.com/science/article/pii/S221112471731714X'>ScienceDirect</a><br>"
+  },
+  {
+    "id": 9,
+    "tagw": "vitaminecaug",
+    "conseil": "<br>Consommer des aliments<br>Consommer des aliments avec de la Vitamine C dedans<br>"
+  },
+  {
+    "id": 10,
+    "tagw": "vitaminedaug",
+    "conseil": "<br>S'exposer au soleil<br>S'exposer au soleil:<br><a href='https://www.healthline.com/nutrition/vitamin-d-from-sun'>Healthline</a><br><br>Manger des sardines<br>Manger des sardines:<br><a href='https://www.nutritionadvance.com/sardines-nutrition-benefits/'>Nutrition Advance</a><br>"
+  },
+  {
+    "id": 11,
+    "tagw": "nanoparticuledim",
+    "conseil": "<br>Elastomeric half-mask respirators<br>Les particules inférieurs à 0,5 micromètres soit inférieurs à 500nm sont retrouvées dans le métro parisien et peuvent provoquer des problèmes de santé:<br><a href='https://pubmed.ncbi.nlm.nih.gov/17883261/'>PubMed</a> et <a href='https://www.futura-sciences.com/sante/actualites/medecine-nanoparticules-danger-cerveau-34445/'>Futura Sciences</a>.<br><br>Il existe des dispositifs pour protéger des nanoparticules entre 10 et 400 nm:<br>EHR-P100 model-B > EHR-P100 model-A > FFR-P100 model-A > FFR-P100 model-B > EHR-N95 model-B > EHR N95 model-A > N95 FFR model-B > N95 FFR model-A. Ces protections ne sont pas testées pour les nanoparticules inférieurs à 10 nanomètres (probablement présentes dans le métro parisien).<br><br>Source: <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5504519/'>NCBI</a><br>"
+  },
+  {
+    "id": 12,
+    "tagw": "2agaug",
+    "conseil": "<br>SERUM Masturbation jusqu'à l'orgasme<br>La masturbation jusqu'à l'orgasme augmente le taux de 2-AG:<br><a href='https://academic.oup.com/jsm/article-abstract/14/11/1372/6973317'>The Journal of Sexual Medicine</a><br>Attention, l'augmentation du taux de 2-AG peut produire de la tolérance:<br><a href='https://www.sciencedaily.com/releases/2010/08/100824151036.htm'>ScienceDaily</a><br>"
+  },
+  {
+    "id": 13,
+    "tagw": "volumehippocampeaug",
+    "conseil": "L'exercice aerobic permettrait d'augmenter le volume de la partie gauche de l'hippocampe:\nhttps://pubmed.ncbi.nlm.nih.gov/29113943/"
+  },
+  {
+  "id": 14,
+  "tagw": "tempsendormissementdim",
+  "conseil": "<br>Sport<br>Les chercheurs ont examiné 23 études qui ont évalué le moment du coucher et la qualité du sommeil chez les adultes en bonne santé qui ont effectué une séance de sport le soir, comparés à des adultes similaires qui ne l'ont pas fait. Ils ont constaté que le sport le soir n'affectait pas le sommeil, il semble même aider les gens à s'endormir plus rapidement et à passer plus de temps en sommeil profond. Cependant, ceux qui ont fait du sport à haute intensité, comme l'entraînement par intervalles, moins d'une heure avant le coucher ont mis plus de temps à s'endormir et ont eu une qualité de sommeil plus médiocre.<br><a href='https://pubmed.ncbi.nlm.nih.gov/30374942/'>PubMed</a><br><br>Eviter le café après 13 heure :<br><a href='https://pubmed.ncbi.nlm.nih.gov/36870101/'>PubMed</a><br><br>Eviter café<br>Pour éviter de réduire la durée totale du sommeil, le café (107 mg par 250 ml) doit être consommé au moins 8,8 heures avant le coucher<br><a href='https://pubmed.ncbi.nlm.nih.gov/36870101/'>PubMed</a><br><br>Eviter siestes trop fréquente/tard dans la journée<br><a href='https://pubmed.ncbi.nlm.nih.gov/35253300/'>PubMed</a><br>"
+  },
+  {
+  "id": 15,
+  "tagw": "tempsreveildim",
+  "conseil": "<br>Temps de réveil<br>Le temps de réveil est le temps passé allongé après le réveil. Il peut être réduit en employant un système EAD (enceinte à distance), mais aussi en utilisant les procédures de réductions de mélatonine ou l'eau froide sur le visage<br>"
+  },
+  {
+  "id": 16,
+  "tagw": "melatoninedim",
+  "conseil": "<br><br><br>Exposition à la lumière<br><html><a href='https://academic.oup.com/jcem/article/99/9/3298/2538381#:~:text=Melatonin%20secretion%20is%20suppressed%20by,light%20(2%2C%203)'>Melatonin secretion is suppressed by exposure to light - The Journal of Clinical Endocrinology & Metabolism</a></html><br><br><br>"
   }
 ]
