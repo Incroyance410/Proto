@@ -136,27 +136,27 @@
   },
   {
     "id": 29,
-    "tagw": "TemperatureSurface",
+    "tagw": "temperaturesurface",
     "conseil": "On peut augmenter ou diminuer la température à la surface du corps en se douchant à l'eau chaude ou froide, ou en aillant un climatiseur ou un chauffage"
   },
   {
     "id": 30,
-    "tagw": "Son",
+    "tagw": "son",
     "conseil": "Accès à un bureau silencieux avec possibilité de mettre de la musique sur des hauts parleurs de bonne qualité"
   },
   {
     "id": 31,
-    "tagw": "Bureau",
+    "tagw": "bureau",
     "conseil": "Pouvoir étendre ses bras sur une surface de bureau suffisante (et mesurable)"
   },
   {
     "id": 32,
-    "tagw": "Interruptionsommeildim",
+    "tagw": "interruptionsommeildim",
     "conseil": "Endroit mou, silencieux et confortable pour m'allonger librement et dormir de 23h45 à 8h45. Si quelqu'un est présent dans la pièce, il y aura un manque de silence très probable."
   },
   {
     "id": 33,
-    "tagw": "Interruptionfocusdim",
+    "tagw": "interruptionfocusdim",
     "conseil": "Passer des accords avec les personnes proches pour ne pas être interrompu pendant la concentration"
   }
 ]
