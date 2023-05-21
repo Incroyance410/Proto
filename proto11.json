@@ -133,5 +133,10 @@
     "id": 28,
     "tagw": "scorestrooptask",
     "conseil": "<br><br><br>Flavanols : La consommation de flavanols permet d'augmenter le score du Stroop task<br><br><html><a href='https://www.nature.com/articles/s41598-020-76160-9#Sec12'>Nature - Flavanols and Stroop task</a></html><br><br><br>Eicosapentaenoic acid : La consommation d'EPA permet d'augmenter le score du Stroop task<br><br><html><a href='https://pubmed.ncbi.nlm.nih.gov/24470182/'>PubMed - EPA and Stroop task</a></html><br><br><br>"
+  },
+  {
+    "id": 29,
+    "tagw": "TemperatureSurface",
+    "conseil": "On peut augmenter ou diminuer la température à la surface du corps en se douchant à l'eau chaude ou froide"
   }
 ]
