@@ -158,5 +158,10 @@
     "id": 33,
     "tagw": "interruptionfocusdim",
     "conseil": "Passer des accords avec les personnes proches pour ne pas être interrompu pendant la concentration"
+  },
+  {
+    "id": 34,
+    "tagw": "MPFCactivationaug",
+    "conseil": "Anticiper des événements futurs positifs permet l'activation du MPFC (medial prefrontal cortex)<br><br><html><a href='https://pubmed.ncbi.nlm.nih.gov/29375415/'>PubMed - Well-being and Anticipation for Future Positive Events: Evidences from an fMRI Study</a></html>"
   }
 ]
